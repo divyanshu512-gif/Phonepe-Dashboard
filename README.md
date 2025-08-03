@@ -26,8 +26,8 @@ The dashboard includes:
 ## 📂 Files
 
 - `PhonePeDashboard.pbix` – Power BI report file (not included here for size/privacy reasons, add if available)
-- `README.md` – Project documentation (this file)
-- `assets/` – (Optional) Folder for screenshots or resources
+- `README.md` – https://github.com/divyanshu512-gif/Phonepe-Dashboard/edit/main/README.md
+
 
 ## 🛠 Tools Used
 
@@ -44,15 +44,8 @@ The dashboard includes:
 
 ## 📷 Screenshot
 
-![PhonePe Pulse Dashboard](assets/phonepe-dashboard-screenshot.png)
+![PhonePe Pulse Dashboard](https://github.com/divyanshu512-gif/Phonepe-Dashboard/blob/main/Screenshot%20of%20phonepe_dashboard.png)
 
-> 📎 Add your own screenshot inside the `assets/` folder and update the image link above.
-
-## 📌 How to Use
-
-1. Clone the repository
-2. Open the `.pbix` file in Power BI Desktop
-3. Explore the dashboard with interactive filters (Region, Year, State, etc.)
 
 ## 📄 License
 
