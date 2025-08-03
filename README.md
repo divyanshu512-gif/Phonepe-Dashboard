@@ -25,7 +25,7 @@ The dashboard includes:
 
 ## 📂 Files
 
-- `PhonePeDashboard.pbix` – Power BI report file (not included here for size/privacy reasons, add if available)
+- `PhonePeDashboard.pbix` – Power BI report file (https://github.com/divyanshu512-gif/Phonepe-Dashboard/blob/main/phonepe.pbit)
 - `README.md` – https://github.com/divyanshu512-gif/Phonepe-Dashboard/edit/main/README.md
 
 
